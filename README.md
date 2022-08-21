@@ -3,7 +3,7 @@
 Built a reusable Drop Zone component with Vue 3 and Composition API.
 
 ## Project Screenshots
-![image](https://user-images.githubusercontent.com/60259324/185785982-3c30ab0c-4921-4e84-91c2-202d8ee9061f.png)
+![image](https://user-images.githubusercontent.com/60259324/185786015-dfccde3c-b39c-473a-ad87-f3e6ac357c50.png)
 
 ## Installation
 
